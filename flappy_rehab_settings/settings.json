@@ -1,0 +1,18 @@
+{
+  "control_mode": "position",
+  "input_mode": "slider",
+  "invert_input": false,
+  "rehab_serial_port": "COM3",
+  "rehab_baud": 115200,
+  "rehab_flap_threshold": 0.65,
+  "rehab_cooldown": 0.18,
+  "gravity": 1200.0,
+  "flap_impulse": -320.0,
+  "max_fall_speed": 700.0,
+  "ground_height": 70,
+  "pipe_gap": 130,
+  "pipe_width": 60,
+  "pipe_spawn_every": 1.0,
+  "pipe_speed": -200.0,
+  "difficulty": "hard"
+}
