@@ -64,7 +64,7 @@ PRESETS = {
     },
     # "a bit faster" (stroke rehab male)
     "stroke_man": {
-        "difficulty": "normal+",
+        "difficulty": "normal",
         "pipe_gap": 170,
         "pipe_speed": -170.0,
         "pipe_spawn_every": 1.30,
